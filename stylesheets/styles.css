@@ -763,10 +763,10 @@ header p {
 #banner .downloads span {
   float: left;
   line-height: 52px;
-  font-size: 90%;
+  font-size: 120%;
+  font-weight: bold;
   color: #9d7f0d;
-  text-transform: uppercase;
-  text-shadow: rgba(255, 255, 255, 0.2) 0 1px 0;
+  text-shadow: rgba(255, 255, 255, 0.5) 0 1px 1px;
 }
 #banner ul {
   list-style: none;
